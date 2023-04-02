@@ -158,7 +158,6 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  text-align: center;
 }
 
 .better {
@@ -166,6 +165,17 @@ a {
   font-size: 60px;
   font-family: "Times New Roman", Times, serif;
 }
+
+.text-cont {
+  margin-bottom: 300px;
+  width: 1900px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 
 .readMore {
   background: #fccb00;
@@ -175,9 +185,10 @@ a {
 }
 
 .slider {
+  margin-top: 400px;
   width: 1900px;
+  height: 600px;
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   align-items: center;
 }
