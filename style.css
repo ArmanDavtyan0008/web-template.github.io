@@ -141,7 +141,7 @@ a {
 }
 
 .for_text {
-  background-image: url("/images.jpg");
+  background-image: url("images.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
